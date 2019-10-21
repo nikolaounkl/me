@@ -26,7 +26,6 @@ const Content = () => {
 			<Education />
 			<br />
 			<Languages />
-			<br />
 			<Footer />
 		</Section>
 	);
