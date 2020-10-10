@@ -8,7 +8,6 @@ import {
   FaSass,
   FaPhp,
   FaLaravel,
-  FaChrome,
   FaAws,
   FaNpm,
   FaGit,
@@ -95,7 +94,7 @@ const Experience = () => {
           <FaReact /> <FaHtml5 /> <FaCss3Alt /> <FaSass /> <FaJsSquare />{" "}
           <FaGhost />
           <FaEmber /> <FaAws /> <FaYarn /> <FaGit /> <DiScrum />{" "}
-          <DiVisualstudio /> <FaChrome />
+          <DiVisualstudio />
         </Icons>
       </Text>
 
@@ -123,7 +122,7 @@ const Experience = () => {
         <Icons>
           <FaHtml5 /> <FaCss3Alt /> <FaJsSquare /> <FaPhp /> <FaLaravel />{" "}
           <DiJqueryLogo /> <FaAws /> <DiBootstrap /> <DiMysql /> <FaGit />{" "}
-          <DiScrum /> <DiVisualstudio /> <FaChrome />
+          <DiScrum /> <DiVisualstudio />
         </Icons>
       </Text>
 
@@ -138,7 +137,7 @@ const Experience = () => {
         <Icons>
           <FaHtml5 /> <FaCss3Alt /> <FaJsSquare /> <FaReact /> <DiJqueryLogo />{" "}
           <FaSass /> <DiBootstrap /> <DiFirebase /> <FaGit /> <FaWordpress />{" "}
-          <FaElementor /> <FaNpm /> <DiVisualstudio /> <FaChrome />
+          <FaElementor /> <FaNpm /> <DiVisualstudio />
         </Icons>
       </Text>
 
@@ -159,7 +158,7 @@ const Experience = () => {
         <Span white>Tech stack:</Span>
         <Icons>
           <FaHtml5 /> <FaCss3Alt /> <FaJsSquare /> <FaReact /> <DiScrum />{" "}
-          <DiJira /> <FaNpm /> <DiVisualstudio /> <FaChrome />
+          <DiJira /> <FaNpm /> <DiVisualstudio />
         </Icons>
       </Text>
 
@@ -175,7 +174,7 @@ const Experience = () => {
         <Span white>Tech stack:</Span>
         <Icons>
           <FaHtml5 /> <FaCss3Alt /> <FaJsSquare /> <FaReact /> <FaNpm />{" "}
-          <DiVisualstudio /> <FaChrome />
+          <DiVisualstudio />
         </Icons>
       </Text>
     </Section>
