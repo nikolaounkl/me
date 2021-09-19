@@ -30,8 +30,7 @@ const Experience = () => {
 				Comfortable: <Span>Backend Web Development</Span>
 			</Text>
 			<Text white>
-				Current Focus: <Span>React</Span> | <Span>GraphQL</Span> |{" "}
-				<Span>Apollo</Span>
+				Current Focus: <Span>Strapi</Span> | <Span>NextJS</Span>
 			</Text>
 		</Section>
 	);
